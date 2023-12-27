@@ -1,0 +1,115 @@
+{
+    "Mission Time": {
+        "start": "19700101 000206560",
+        "finish": "19700101 000641864"
+    },
+    "Phases": [
+        {
+            "phaseNumber": 1,
+            "activeTargets": [
+                1
+            ],
+            "Targets": [
+                {
+                    "targetId": 1,
+                    "direction": true,
+                    "x": -0.0018354224,
+                    "y": -0.0039708234,
+                    "r": 0.0043744958,
+                    "timestamp": "19700101 000312192"
+                }
+            ],
+            "timestamp": "19700101 000312208"
+        },
+        {
+            "phaseNumber": 2,
+            "activeTargets": [
+                3,
+                6
+            ],
+            "Targets": [
+                {
+                    "targetId": 6,
+                    "direction": true,
+                    "x": 0.0022148251,
+                    "y": -0.0181975251,
+                    "r": 0.0183318131,
+                    "timestamp": "19700101 000336168"
+                },
+                {
+                    "targetId": 3,
+                    "direction": true,
+                    "x": -0.0052364574,
+                    "y": 0.0090608052,
+                    "r": 0.0104651172,
+                    "timestamp": "19700101 000420992"
+                }
+            ],
+            "timestamp": "19700101 000421000"
+        },
+        {
+            "phaseNumber": 3,
+            "activeTargets": [
+                4,
+                5
+            ],
+            "Targets": [
+                {
+                    "targetId": 5,
+                    "direction": true,
+                    "x": -0.0006540323,
+                    "y": 0.0037811448,
+                    "r": 0.0038372926,
+                    "timestamp": "19700101 000503120"
+                },
+                {
+                    "targetId": 4,
+                    "direction": true,
+                    "x": 0.003325768,
+                    "y": -0.0016501675,
+                    "r": 0.0037126521,
+                    "timestamp": "19700101 000533464"
+                }
+            ],
+            "timestamp": "19700101 000533464"
+        },
+        {
+            "phaseNumber": 4,
+            "activeTargets": [
+                3
+            ],
+            "Targets": [
+                {
+                    "targetId": 3,
+                    "direction": true,
+                    "x": -0.0014757357,
+                    "y": 0.0080386166,
+                    "r": 0.0081729525,
+                    "timestamp": "19700101 000617280"
+                }
+            ],
+            "timestamp": "19700101 000617280"
+        },
+        {
+            "phaseNumber": 5,
+            "activeTargets": [
+                1,
+                4
+            ],
+            "Targets": [],
+            "timestamp": "19700101 000641864"
+        }
+    ],
+    "Report": {
+        "arrival": {
+            "try": true,
+            "success": true,
+            "distance": 0.009617986031826864
+        },
+        "qr": {
+            "try": true,
+            "success": false
+        }
+    },
+    "Illegal": false
+}
